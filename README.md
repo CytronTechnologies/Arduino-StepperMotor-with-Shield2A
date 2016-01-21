@@ -2,7 +2,7 @@
 This is sample Arduino sketch for stepper motor with Shield 2A
 
 ###HARDWARE REQUIRED:###
--Arduino Uno</br>
+-Arduino Uno</br>(http://www.cytron.com.my/p-arduino-uno?search=arduino%20uno&sort=relevance&order=DESC)
 -USB Mini Cable (2.0)</br>
 -Adapter 12V 2A</br>
 -2 Amp Motor Driver Shield</br>
